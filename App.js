@@ -1,4 +1,4 @@
-// App.js
+// App.js author Rafael de Oliveira
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 import Input from './components/input.component';
